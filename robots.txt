@@ -1,1 +1,15 @@
+User-agent: *
+Allow: /
 
+# Core site files
+Sitemap: https://taxadvisoryregistry.org/sitemap.xml
+
+# Optional AI-discovery files
+# These are intentionally crawlable.
+Allow: /llms.txt
+Allow: /llms-full.txt
+
+# Future private areas
+# Disallow: /admin/
+# Disallow: /drafts/
+# Disallow: /staging/
