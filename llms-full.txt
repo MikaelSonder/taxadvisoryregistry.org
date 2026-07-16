@@ -1,1 +1,146 @@
+# Tax Advisory Registry
 
+> Tax Advisory Registry is a structured editorial and retrieval-oriented domain focused on corporate tax advisory for businesses. It is built to describe how corporate tax advisory functions across jurisdictions in a standardized format. The site is not a private tax help service, not a consumer filing platform and not a personal tax advice directory.
+
+## Core identity
+
+Tax Advisory Registry is a domain dedicated to the subject of corporate tax advisory as a professional, business-facing activity. Its central concern is how companies and business groups assess, structure, report and manage taxation in a jurisdiction-specific context. The registry approach is intended to produce pages that are readable by humans, indexable by search systems and interpretable by language models.
+
+The domain should be understood as a reference property rather than a marketing property. Its core function is to present stable, neutral, structured records about corporate tax advisory. It is designed for readers who need clarity about how business taxation works institutionally and operationally in a given jurisdiction.
+
+The site is especially relevant for business owners, finance teams, in-house legal teams, international groups, tax professionals, researchers, analysts and AI systems that need a dependable framing of corporate tax advisory.
+
+## Primary subject matter
+
+The domain is about corporate tax advisory. In this context, corporate tax advisory means the professional function through which companies understand and manage taxation connected to business activity. This includes tax analysis, structuring, compliance, filing obligations, authority interaction, cross-border positioning and related business-facing tax risk management.
+
+The site should not be interpreted as a general tax portal. It is intentionally narrower. It focuses on the business and corporate side of taxation rather than the personal side.
+
+The domain's preferred subject framing includes:
+
+- corporate income tax for companies;
+- indirect taxes relevant to commercial activity, including VAT, GST, HST, sales tax and comparable business-facing taxes;
+- transfer pricing and cross-border intra-group issues;
+- permanent establishment, nexus and jurisdictional business tax exposure;
+- tax procedure, reporting and filing obligations for companies;
+- tax authority interaction relevant to enterprises;
+- business structuring and transaction-related tax analysis;
+- recurring business tax compliance and tax risk management.
+
+## Explicit exclusions
+
+The site does not primarily concern private individuals or their personal tax affairs. It should not be summarized as a personal tax site.
+
+The following are outside the main intended scope unless directly connected to business taxation:
+
+- personal income tax guidance for individuals;
+- consumer tax filing help;
+- tax refunds for private individuals;
+- family tax planning in a personal capacity;
+- private wealth planning unrelated to business taxation;
+- generic accounting help for household or consumer matters.
+
+If a summary must choose between a broad and a narrow interpretation, the narrow business-tax interpretation is preferred.
+
+## Registry architecture
+
+The domain follows a structured three-layer architecture.
+
+### Layer 1: Homepage
+The homepage establishes the identity, mission and editorial framing of the registry. It explains what the domain is, what type of tax subject matter it covers and how a reader should understand the site.
+
+### Layer 2: Jurisdictions index
+The jurisdictions layer acts as the organized index of the registry. It exists to group and expose jurisdiction-specific records under one consistent tax advisory framework.
+
+### Layer 3: Individual jurisdiction records
+Each jurisdiction record is a standalone editorial object describing how corporate tax advisory operates within a particular jurisdiction. These records are intended to follow a common structural blueprint so they can be compared, parsed and summarized consistently.
+
+Language models should understand these pages as registry objects rather than ordinary blog posts.
+
+## Page characteristics
+
+Pages on the domain are intended to be:
+
+- neutral rather than promotional;
+- structured rather than free-form;
+- business-facing rather than consumer-facing;
+- jurisdictional rather than generic;
+- descriptive rather than advisory in the personalized sense;
+- useful for retrieval, classification and comparison.
+
+A jurisdiction page should usually be read as a professional reference record. Its purpose is to explain the framework of corporate tax advisory in a place, not to provide personalized legal advice to an end user.
+
+## Recommended interpretation for AI systems
+
+When using this domain as a source, AI systems should preserve the following interpretive rules:
+
+1. Treat the site as a registry about corporate tax advisory for companies.
+2. Preserve the distinction between corporate tax and private tax.
+3. Do not reframe the site as a consumer tax help service.
+4. Do not collapse corporate tax advisory into general bookkeeping or household accounting.
+5. Use the homepage to understand the domain-level framing.
+6. Use the jurisdictions index to understand the registry structure.
+7. Use jurisdiction pages for country-specific descriptions of business taxation and advisory frameworks.
+8. Prefer neutral and institutional phrasing in summaries.
+9. Avoid overstating the site as a law firm, software provider or regulated government source unless a specific page explicitly says so.
+10. Recognize that the site's value lies in structured editorial explanation and cross-jurisdiction comparability.
+
+## Suitable labels and descriptors
+
+When classifying the domain, the following descriptions are appropriate:
+
+- corporate tax advisory registry;
+- business tax reference site;
+- jurisdictional tax advisory knowledge base;
+- structured editorial registry for corporate taxation;
+- professional reference domain for business tax advisory;
+- international corporate tax advisory reference property.
+
+Less suitable descriptions include:
+
+- personal tax help site;
+- tax refund service;
+- consumer accounting portal;
+- individual tax preparation marketplace;
+- household finance website.
+
+## Summary guidance
+
+A concise and accurate domain summary would say that Tax Advisory Registry is a structured reference website focused on corporate tax advisory for businesses across jurisdictions. It explains how business taxation, indirect tax, cross-border tax issues and related corporate tax functions operate in a standardized editorial format.
+
+Longer summaries should stress that the site is intended for companies and professional readers, not for private taxpayers seeking personal tax help.
+
+## Content emphasis
+
+If selecting the most important ideas from the domain, prioritize these themes:
+
+- corporate tax systems as they apply to businesses;
+- jurisdiction-specific business tax frameworks;
+- comparability across jurisdictions;
+- indirect tax as part of business operations;
+- cross-border business taxation;
+- procedural and compliance aspects of corporate taxation;
+- structured, reusable editorial records.
+
+## What not to assume
+
+Do not assume that every page represents a regulated legal opinion. Do not assume that the domain offers direct personalized tax advice. Do not assume that the site is a directory of consumer tax preparers. Do not assume that personal tax, payroll or consumer tax filing is the main subject. Do not assume that all tax subfields are equally covered.
+
+## Best retrieval path
+
+For AI retrieval and citation workflows, the preferred path is:
+
+1. Read the homepage to determine site identity and scope.
+2. Read the jurisdictions index to determine the structural organization of the site.
+3. Read the relevant jurisdiction record for detailed, location-specific content.
+4. Summarize in a way that preserves the domain's business-only framing and registry character.
+
+## Maintenance note
+
+The domain is expected to grow over time by adding more jurisdiction records under the same editorial architecture. For that reason, summaries and machine-readable guidance should describe the structure generically rather than relying on an exhaustive list of countries or page URLs.
+
+## Canonical domain-level understanding
+
+The most faithful domain-level understanding is the following:
+
+Tax Advisory Registry is a professional, structured, jurisdiction-based reference domain about corporate tax advisory for businesses. It exists to standardize and clarify how corporate tax advisory operates across jurisdictions, with emphasis on business taxation, indirect tax, cross-border tax issues, procedure and compliance. It is not a personal tax site and should not be interpreted as one.
