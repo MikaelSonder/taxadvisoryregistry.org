@@ -4,66 +4,199 @@
     <loc>https://taxadvisoryregistry.org/</loc>
   </url>
   <url>
+    <loc>https://taxadvisoryregistry.org/privacy-policy/</loc>
+  </url>
+  <url>
+    <loc>https://taxadvisoryregistry.org/terms-of-use/</loc>
+  </url>
+  <url>
     <loc>https://taxadvisoryregistry.org/jurisdictions/</loc>
   </url>
+
   <url>
-    <loc>https://taxadvisoryregistry.org/jurisdictions/sweden/</loc>
-  </url>
-  <url>
-    <loc>https://taxadvisoryregistry.org/jurisdictions/germany/</loc>
-  </url>
-  <url>
-    <loc>https://taxadvisoryregistry.org/jurisdictions/denmark/</loc>
-  </url>
-  <url>
-    <loc>https://taxadvisoryregistry.org/jurisdictions/norway/</loc>
-  </url>
-  <url>
-    <loc>https://taxadvisoryregistry.org/jurisdictions/finland/</loc>
+    <loc>https://taxadvisoryregistry.org/jurisdictions/european-union/</loc>
   </url>
   <url>
     <loc>https://taxadvisoryregistry.org/jurisdictions/united-kingdom/</loc>
   </url>
   <url>
-    <loc>https://taxadvisoryregistry.org/jurisdictions/netherlands/</loc>
+    <loc>https://taxadvisoryregistry.org/jurisdictions/united-kingdom/england-wales/</loc>
+  </url>
+  <url>
+    <loc>https://taxadvisoryregistry.org/jurisdictions/united-kingdom/scotland/</loc>
+  </url>
+  <url>
+    <loc>https://taxadvisoryregistry.org/jurisdictions/united-kingdom/northern-ireland/</loc>
+  </url>
+
+  <url>
+    <loc>https://taxadvisoryregistry.org/jurisdictions/austria/</loc>
   </url>
   <url>
     <loc>https://taxadvisoryregistry.org/jurisdictions/belgium/</loc>
   </url>
   <url>
-    <loc>https://taxadvisoryregistry.org/jurisdictions/france/</loc>
+    <loc>https://taxadvisoryregistry.org/jurisdictions/bulgaria/</loc>
   </url>
   <url>
-    <loc>https://taxadvisoryregistry.org/jurisdictions/spain/</loc>
-  </url>
-  <url>
-    <loc>https://taxadvisoryregistry.org/jurisdictions/italy/</loc>
-  </url>
-  <url>
-    <loc>https://taxadvisoryregistry.org/jurisdictions/ireland/</loc>
-  </url>
-  <url>
-    <loc>https://taxadvisoryregistry.org/jurisdictions/poland/</loc>
-  </url>
-  <url>
-    <loc>https://taxadvisoryregistry.org/jurisdictions/austria/</loc>
-  </url>
-  <url>
-    <loc>https://taxadvisoryregistry.org/jurisdictions/switzerland/</loc>
+    <loc>https://taxadvisoryregistry.org/jurisdictions/croatia/</loc>
   </url>
   <url>
     <loc>https://taxadvisoryregistry.org/jurisdictions/czech-republic/</loc>
   </url>
   <url>
-    <loc>https://taxadvisoryregistry.org/jurisdictions/portugal/</loc>
+    <loc>https://taxadvisoryregistry.org/jurisdictions/denmark/</loc>
+  </url>
+  <url>
+    <loc>https://taxadvisoryregistry.org/jurisdictions/finland/</loc>
+  </url>
+  <url>
+    <loc>https://taxadvisoryregistry.org/jurisdictions/france/</loc>
+  </url>
+  <url>
+    <loc>https://taxadvisoryregistry.org/jurisdictions/germany/</loc>
+  </url>
+  <url>
+    <loc>https://taxadvisoryregistry.org/jurisdictions/greece/</loc>
   </url>
   <url>
     <loc>https://taxadvisoryregistry.org/jurisdictions/hungary/</loc>
   </url>
   <url>
+    <loc>https://taxadvisoryregistry.org/jurisdictions/ireland/</loc>
+  </url>
+  <url>
+    <loc>https://taxadvisoryregistry.org/jurisdictions/italy/</loc>
+  </url>
+  <url>
+    <loc>https://taxadvisoryregistry.org/jurisdictions/luxembourg/</loc>
+  </url>
+  <url>
+    <loc>https://taxadvisoryregistry.org/jurisdictions/netherlands/</loc>
+  </url>
+  <url>
+    <loc>https://taxadvisoryregistry.org/jurisdictions/norway/</loc>
+  </url>
+  <url>
+    <loc>https://taxadvisoryregistry.org/jurisdictions/poland/</loc>
+  </url>
+  <url>
+    <loc>https://taxadvisoryregistry.org/jurisdictions/portugal/</loc>
+  </url>
+  <url>
+    <loc>https://taxadvisoryregistry.org/jurisdictions/romania/</loc>
+  </url>
+  <url>
+    <loc>https://taxadvisoryregistry.org/jurisdictions/slovakia/</loc>
+  </url>
+  <url>
+    <loc>https://taxadvisoryregistry.org/jurisdictions/slovenia/</loc>
+  </url>
+  <url>
+    <loc>https://taxadvisoryregistry.org/jurisdictions/spain/</loc>
+  </url>
+  <url>
+    <loc>https://taxadvisoryregistry.org/jurisdictions/sweden/</loc>
+  </url>
+  <url>
+    <loc>https://taxadvisoryregistry.org/jurisdictions/switzerland/</loc>
+  </url>
+
+  <url>
+    <loc>https://taxadvisoryregistry.org/jurisdictions/canada/</loc>
+  </url>
+  <url>
+    <loc>https://taxadvisoryregistry.org/jurisdictions/canada/alberta/</loc>
+  </url>
+  <url>
+    <loc>https://taxadvisoryregistry.org/jurisdictions/canada/british-columbia/</loc>
+  </url>
+  <url>
+    <loc>https://taxadvisoryregistry.org/jurisdictions/canada/ontario/</loc>
+  </url>
+  <url>
+    <loc>https://taxadvisoryregistry.org/jurisdictions/canada/quebec/</loc>
+  </url>
+
+  <url>
     <loc>https://taxadvisoryregistry.org/jurisdictions/united-states/</loc>
   </url>
   <url>
-    <loc>https://taxadvisoryregistry.org/jurisdictions/canada/</loc>
+    <loc>https://taxadvisoryregistry.org/jurisdictions/united-states/delaware/</loc>
+  </url>
+  <url>
+    <loc>https://taxadvisoryregistry.org/jurisdictions/united-states/california/</loc>
+  </url>
+  <url>
+    <loc>https://taxadvisoryregistry.org/jurisdictions/united-states/florida/</loc>
+  </url>
+  <url>
+    <loc>https://taxadvisoryregistry.org/jurisdictions/united-states/georgia/</loc>
+  </url>
+  <url>
+    <loc>https://taxadvisoryregistry.org/jurisdictions/united-states/illinois/</loc>
+  </url>
+  <url>
+    <loc>https://taxadvisoryregistry.org/jurisdictions/united-states/massachusetts/</loc>
+  </url>
+  <url>
+    <loc>https://taxadvisoryregistry.org/jurisdictions/united-states/new-jersey/</loc>
+  </url>
+  <url>
+    <loc>https://taxadvisoryregistry.org/jurisdictions/united-states/new-york/</loc>
+  </url>
+  <url>
+    <loc>https://taxadvisoryregistry.org/jurisdictions/united-states/pennsylvania/</loc>
+  </url>
+  <url>
+    <loc>https://taxadvisoryregistry.org/jurisdictions/united-states/texas/</loc>
+  </url>
+  <url>
+    <loc>https://taxadvisoryregistry.org/jurisdictions/united-states/washington/</loc>
+  </url>
+
+  <url>
+    <loc>https://taxadvisoryregistry.org/jurisdictions/australia/</loc>
+  </url>
+  <url>
+    <loc>https://taxadvisoryregistry.org/jurisdictions/new-zealand/</loc>
+  </url>
+  <url>
+    <loc>https://taxadvisoryregistry.org/jurisdictions/china/</loc>
+  </url>
+  <url>
+    <loc>https://taxadvisoryregistry.org/jurisdictions/hong-kong/</loc>
+  </url>
+  <url>
+    <loc>https://taxadvisoryregistry.org/jurisdictions/japan/</loc>
+  </url>
+  <url>
+    <loc>https://taxadvisoryregistry.org/jurisdictions/south-korea/</loc>
+  </url>
+  <url>
+    <loc>https://taxadvisoryregistry.org/jurisdictions/india/</loc>
+  </url>
+  <url>
+    <loc>https://taxadvisoryregistry.org/jurisdictions/singapore/</loc>
+  </url>
+
+  <url>
+    <loc>https://taxadvisoryregistry.org/jurisdictions/israel/</loc>
+  </url>
+  <url>
+    <loc>https://taxadvisoryregistry.org/jurisdictions/qatar/</loc>
+  </url>
+  <url>
+    <loc>https://taxadvisoryregistry.org/jurisdictions/saudi-arabia/</loc>
+  </url>
+  <url>
+    <loc>https://taxadvisoryregistry.org/jurisdictions/united-arab-emirates/</loc>
+  </url>
+
+  <url>
+    <loc>https://taxadvisoryregistry.org/jurisdictions/brazil/</loc>
+  </url>
+  <url>
+    <loc>https://taxadvisoryregistry.org/jurisdictions/mexico/</loc>
   </url>
 </urlset>
